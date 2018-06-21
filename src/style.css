@@ -1,0 +1,15 @@
+body{
+	/*background:blue;*/
+	font-size:32px;
+	color:#fff;
+	background:url('../images/1.jpg') no-repeat top center;
+	background-size:cover;  
+}
+.black{
+	transform: rotate(60deg);
+	box-shadow: 1px 1px 0px rgba(0,0,0,0.3);
+}
+.aaa{
+	font-size:100px;
+	color:#fff;
+}

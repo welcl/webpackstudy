@@ -1,0 +1,20 @@
+/*! 这个是版权声明插件,也可用来备注,表明这段代码谁写的 */
+.black {
+  background-color: cyan;
+  width: 300px;
+  height: 200px;
+}
+
+body {
+  /*background:blue;*/
+  font-size: 32px;
+  color: #fff;
+  background: url(http://localhost:8080/images/4af698f07c161a3005b21b7a0bc1f43c.jpg) no-repeat top center;
+  background-size: cover;
+}
+
+.black {
+  -webkit-transform: rotate(60deg);
+  transform: rotate(60deg);
+  box-shadow: 1px 1px 0px rgba(0,0,0,0.3);
+}
